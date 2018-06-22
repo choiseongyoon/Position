@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "387637554035",
+    "firebase_url": "https://bluetooth-3e589.firebaseio.com",
+    "project_id": "bluetooth-3e589",
+    "storage_bucket": "bluetooth-3e589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387637554035:android:8fbb6031ec3aedbc",
+        "android_client_info": {
+          "package_name": "com.example.wearable.bluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387637554035-jbtt8e202gj8kc67l5m6mdouealpdjvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wearable.bluetooth",
+            "certificate_hash": "b0b4204ead2a71f32ace79ee5786f7e59a1a45e8"
+          }
+        },
+        {
+          "client_id": "387637554035-791k7fa30i3kdua5qf05lb3dgpvbs0jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wearable.bluetooth",
+            "certificate_hash": "ab2772fd5f6c96d204279d832ec7d32e289337d2"
+          }
+        },
+        {
+          "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ083ZZQRlWvdA_QOhu76FYGexOG0AURs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387637554035:android:e231d4d2033a21ec",
+        "android_client_info": {
+          "package_name": "com.example.wearable.position"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387637554035-6dc50fplt7rltui3ki4600m9jqjfo9rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wearable.position",
+            "certificate_hash": "b4136d1d67ce1055251d835faeec43bad07f9771"
+          }
+        },
+        {
+          "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ083ZZQRlWvdA_QOhu76FYGexOG0AURs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387637554035:android:f4e9a14a085ec238",
+        "android_client_info": {
+          "package_name": "com.example.wearable.testdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387637554035-76adq41rrc7t8acgb471hk8l0mrlnknj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wearable.testdriver",
+            "certificate_hash": "f7e3045e5f563b691f0791112b0bd358a51d113b"
+          }
+        },
+        {
+          "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ083ZZQRlWvdA_QOhu76FYGexOG0AURs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387637554035-j4osai0f6ljahenk6kfgousmhjoll66b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
